@@ -18,7 +18,7 @@ Problem Statement
 You have been tasked to create a model that will be used to predict Tesla stock prices in
 2017 using data from 2012-2016.
 
-You can use the following Guiding Template [Link].
+
 Dataset
 The provided dataset contains 5 years of Tesla stock prices. (2012-2017)
 
